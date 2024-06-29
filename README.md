@@ -1,0 +1,1 @@
+Here you can see solution for Yandex's Algorythm trains 3.0 Olympiad level. Contest is here: https://contest.yandex.ru/contest/45469/
